@@ -1,0 +1,2 @@
+model_checkpoint_path: "masked"
+all_model_checkpoint_paths: "masked"
